@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+.a{
+    color: black;
+}
+h1{
+    padding-left: 50px;
+}
+.h1{
+     padding-left: 50px;
+     margin-top: 140px;
+}
+.para{
+    padding-left: 50px;
+    margin-top: 8px;
+}
+.for_me{
+    color: black;
+    border-radius: 5px;
+    background-color: aquamarine;
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.for_me:hover{
+    background-color: rgb(230, 161, 173);
+    color: aquamarine;
+}
+.heading{
+          padding-left: 50px;
+          margin-top: 1000;
+}
+.my_para{
+    padding-left: 50px;
+    margin-top: 1000;
+}
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: lightblue;
+    color: black;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+button{
+    box-shadow: 3px 5px 5px pink;
+}
+
